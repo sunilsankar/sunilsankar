@@ -10,6 +10,6 @@
 
 ## It is also published online via github pages [here](https://sunilsankar.github.io)
 
-### Still working on my Github stats :sweat_smile:
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunilsankar)](https://github.com/anuraghazra/github-readme-stats)
