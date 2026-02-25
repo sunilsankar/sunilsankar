@@ -8,7 +8,7 @@
 
 ## My Latest Resume can be downloaded [here](https://raw.githubusercontent.com/sunilsankar/sunilsankar/master/sunilsankar.pdf)
 
-## It is also published online via github pages [here](https://sunilsankar.github.io)
+## My Personal Website [here](https://sunilsankar.github.io)
 
 
 
